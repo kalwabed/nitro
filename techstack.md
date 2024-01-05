@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 kalwabed/nitro is built on the following main stack:
+
 - [Firebase](https://firebase.google.com/) – Realtime Backend / API
 - [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
@@ -15,11 +16,13 @@ kalwabed/nitro is built on the following main stack:
 - [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 kalwabed/nitro is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/116/cZLxNFZS.jpg' alt='Firebase'/> [Firebase](https://firebase.google.com/) – Realtime Backend / API
 - <img width='25' height='25' src='https://img.stackshare.io/service/1014/IoPy1dce_400x400.png' alt='.NET'/> [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
@@ -33,14 +36,15 @@ kalwabed/nitro is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [kalwabed/nitro](https://github.com/kalwabed/nitro)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|38<br/>Tools used|11/10/23 <br/>Report generated|
+|39<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -195,9 +199,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (23)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (24)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (23)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (24)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -207,6 +211,7 @@ Full tech stack [here](/techstack.md)
 |[@types/node-fetch](https://www.npmjs.com/@types/node-fetch)|v2.6.8|11/01/23|renovate[bot] |MIT|N/A|
 |[@types/semver](https://www.npmjs.com/@types/semver)|v7.5.4|11/01/23|renovate[bot] |MIT|N/A|
 |[archiver](https://www.npmjs.com/archiver)|v6.0.1|09/07/23|Pooya Parsa |MIT|N/A|
+|[chalk](https://www.npmjs.com/chalk)|v5.3.0|06/29/23|renovate[bot] |MIT|N/A|
 |[chokidar](https://www.npmjs.com/chokidar)|v3.5.3|01/18/22|renovate[bot] |MIT|N/A|
 |[consola](https://www.npmjs.com/consola)|v3.2.3|07/10/23|renovate[bot] |MIT|N/A|
 |[dot-prop](https://www.npmjs.com/dot-prop)|v8.0.2|10/18/23|renovate[bot] |MIT|N/A|
@@ -228,4 +233,4 @@ Full tech stack [here](/techstack.md)
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
